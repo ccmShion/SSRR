@@ -1,5 +1,27 @@
+Shadowsocksr
+============
+
+Server
+------
+
+### Install
+
+Debian / Ubuntu:
+
+        apt-get install git
+        git clone https://github.com/shadowsocksr/shadowsocksr.git
+
+CentOS:
+
+        yum install git
+        git clone https://github.com/shadowsocksr/shadowsocksr.git
+
+Windows:
+
+        git clone https://github.com/shadowsocksr/shadowsocksr.git
+
 shadowsocks
-===========
+-----------
 
 [![PyPI version]][PyPI]
 [![Build Status]][Travis CI]
