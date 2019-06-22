@@ -9,16 +9,16 @@ Server
 Debian / Ubuntu:
 
         apt-get install git
-        git clone https://github.com/shadowsocksr/shadowsocksr.git
+        git clone https://github.com/ccmShion/SSRR.git
 
 CentOS:
 
         yum install git
-        git clone https://github.com/shadowsocksr/shadowsocksr.git
+        git clone https://github.com/ccmShion/SSRR.git
 
 Windows:
 
-        git clone https://github.com/shadowsocksr/shadowsocksr.git
+        git clone https://github.com/ccmShion/SSRR.git
 
 shadowsocks
 -----------
